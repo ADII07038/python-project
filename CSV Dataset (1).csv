@@ -1,0 +1,201 @@
+order_id,date,item,quantity,payment,price,total_sales
+1,2026-02-21,Butter Chicken,2,Cash,320,640
+2,2026-01-15,Veg Biryani,5,Card,180,900
+3,2026-03-13,Paneer Tikka,1,Cash,220,220
+4,2026-03-02,Dal Makhani,4,Card,200,800
+5,2026-01-21,Paneer Tikka,5,Cash,220,1100
+6,2026-03-24,Cold Coffee,1,Card,90,90
+7,2026-03-28,Paneer Tikka,2,Cash,220,440
+8,2026-03-16,Paneer Tikka,2,UPI,220,440
+9,2026-03-16,Butter Chicken,1,Cash,320,320
+10,2026-03-29,Butter Chicken,2,Card,320,640
+11,2026-01-24,Naan,1,Cash,40,40
+12,2026-01-03,Masala Dosa,5,Cash,120,600
+13,2026-01-22,Dal Makhani,5,Cash,200,1000
+14,2026-02-22,Paneer Tikka,1,UPI,220,220
+15,2026-01-02,Paneer Tikka,5,Cash,220,1100
+16,2026-03-29,Veg Biryani,5,UPI,180,900
+17,2026-01-30,Butter Chicken,5,UPI,320,1600
+18,2026-02-07,Dal Makhani,3,Cash,200,600
+19,2026-01-02,Naan,4,Cash,40,160
+20,2026-03-05,Masala Dosa,2,Cash,120,240
+21,2026-03-01,Chicken Biryani,3,Card,250,750
+22,2026-01-21,Masala Dosa,5,Cash,120,600
+23,2026-02-02,Cold Coffee,1,UPI,90,90
+24,2026-03-17,Paneer Tikka,5,Cash,220,1100
+25,2026-02-27,Naan,4,Card,40,160
+26,2026-01-22,Cold Coffee,5,Cash,90,450
+27,2026-03-30,Dal Makhani,1,Card,200,200
+28,2026-02-18,Chicken Biryani,4,Card,250,1000
+29,2026-02-28,Butter Chicken,5,Cash,320,1600
+30,2026-02-11,Naan,4,UPI,40,160
+31,2026-03-01,Naan,2,Card,40,80
+32,2026-03-21,Paneer Tikka,2,Cash,220,440
+33,2026-01-15,Gulab Jamun,5,Cash,60,300
+34,2026-03-03,Naan,4,UPI,40,160
+35,2026-03-03,Veg Biryani,1,Card,180,180
+36,2026-02-16,Chicken Biryani,5,Card,250,1250
+37,2026-03-03,Chicken Biryani,2,Cash,250,500
+38,2026-02-20,Veg Biryani,2,Cash,180,360
+39,2026-02-24,Veg Biryani,5,UPI,180,900
+40,2026-03-05,Veg Biryani,4,UPI,180,720
+41,2026-01-03,Chicken Biryani,2,Card,250,500
+42,2026-02-20,Masala Dosa,4,Card,120,480
+43,2026-01-07,Chicken Biryani,2,Cash,250,500
+44,2026-01-21,Gulab Jamun,2,Card,60,120
+45,2026-03-14,Paneer Tikka,3,UPI,220,660
+46,2026-02-08,Cold Coffee,2,UPI,90,180
+47,2026-01-18,Masala Dosa,1,Cash,120,120
+48,2026-01-04,Butter Chicken,5,UPI,320,1600
+49,2026-03-30,Cold Coffee,5,UPI,90,450
+50,2026-03-01,Paneer Tikka,4,UPI,220,880
+51,2026-01-14,Gulab Jamun,2,UPI,60,120
+52,2026-01-09,Gulab Jamun,1,Cash,60,60
+53,2026-03-31,Butter Chicken,4,Cash,320,1280
+54,2026-02-22,Masala Dosa,3,Card,120,360
+55,2026-01-02,Veg Biryani,4,UPI,180,720
+56,2026-03-25,Masala Dosa,4,Card,120,480
+57,2026-03-01,Gulab Jamun,2,Cash,60,120
+58,2026-03-12,Chicken Biryani,3,Cash,250,750
+59,2026-02-13,Paneer Tikka,4,Cash,220,880
+60,2026-01-08,Butter Chicken,1,Cash,320,320
+61,2026-02-16,Paneer Tikka,1,Cash,220,220
+62,2026-02-04,Dal Makhani,5,Cash,200,1000
+63,2026-03-19,Dal Makhani,3,Cash,200,600
+64,2026-03-22,Masala Dosa,3,UPI,120,360
+65,2026-02-05,Gulab Jamun,5,Card,60,300
+66,2026-02-19,Gulab Jamun,4,Cash,60,240
+67,2026-01-04,Veg Biryani,3,UPI,180,540
+68,2026-01-02,Veg Biryani,1,UPI,180,180
+69,2026-01-06,Veg Biryani,1,Card,180,180
+70,2026-02-23,Chicken Biryani,2,Cash,250,500
+71,2026-01-04,Cold Coffee,3,Card,90,270
+72,2026-02-23,Naan,4,Cash,40,160
+73,2026-03-04,Cold Coffee,5,UPI,90,450
+74,2026-01-18,Paneer Tikka,5,UPI,220,1100
+75,2026-03-31,Cold Coffee,4,UPI,90,360
+76,2026-02-13,Chicken Biryani,2,UPI,250,500
+77,2026-02-03,Paneer Tikka,5,Card,220,1100
+78,2026-03-15,Cold Coffee,3,Cash,90,270
+79,2026-03-03,Chicken Biryani,2,Cash,250,500
+80,2026-01-14,Naan,3,Card,40,120
+81,2026-02-17,Cold Coffee,1,Cash,90,90
+82,2026-01-15,Chicken Biryani,2,UPI,250,500
+83,2026-03-13,Veg Biryani,5,Cash,180,900
+84,2026-03-19,Gulab Jamun,2,UPI,60,120
+85,2026-03-28,Veg Biryani,2,Card,180,360
+86,2026-03-03,Gulab Jamun,2,Cash,60,120
+87,2026-02-09,Butter Chicken,2,Card,320,640
+88,2026-03-26,Butter Chicken,3,Cash,320,960
+89,2026-03-21,Butter Chicken,1,UPI,320,320
+90,2026-03-23,Naan,4,Card,40,160
+91,2026-02-22,Veg Biryani,2,Cash,180,360
+92,2026-01-24,Gulab Jamun,5,UPI,60,300
+93,2026-01-26,Chicken Biryani,2,Card,250,500
+94,2026-03-30,Paneer Tikka,5,Card,220,1100
+95,2026-03-01,Chicken Biryani,3,Cash,250,750
+96,2026-02-10,Paneer Tikka,5,Cash,220,1100
+97,2026-01-29,Dal Makhani,4,Cash,200,800
+98,2026-01-15,Chicken Biryani,1,UPI,250,250
+99,2026-02-14,Cold Coffee,5,Cash,90,450
+100,2026-03-06,Cold Coffee,5,Card,90,450
+101,2026-03-30,Masala Dosa,1,Card,120,120
+102,2026-03-12,Veg Biryani,4,Cash,180,720
+103,2026-01-09,Paneer Tikka,2,Cash,220,440
+104,2026-03-29,Paneer Tikka,5,Card,220,1100
+105,2026-01-01,Veg Biryani,1,UPI,180,180
+106,2026-01-08,Naan,3,Cash,40,120
+107,2026-03-29,Masala Dosa,1,Cash,120,120
+108,2026-03-04,Naan,3,Card,40,120
+109,2026-01-11,Naan,4,Cash,40,160
+110,2026-03-22,Naan,2,UPI,40,80
+111,2026-01-08,Veg Biryani,1,Card,180,180
+112,2026-02-04,Naan,5,Cash,40,200
+113,2026-02-04,Cold Coffee,4,Card,90,360
+114,2026-02-02,Butter Chicken,1,Cash,320,320
+115,2026-01-05,Dal Makhani,5,Cash,200,1000
+116,2026-02-10,Paneer Tikka,1,Cash,220,220
+117,2026-01-28,Paneer Tikka,3,UPI,220,660
+118,2026-01-07,Dal Makhani,1,UPI,200,200
+119,2026-03-14,Veg Biryani,1,Card,180,180
+120,2026-03-13,Chicken Biryani,1,Cash,250,250
+121,2026-01-12,Veg Biryani,4,Cash,180,720
+122,2026-02-03,Paneer Tikka,1,UPI,220,220
+123,2026-02-02,Paneer Tikka,5,Cash,220,1100
+124,2026-02-17,Dal Makhani,3,UPI,200,600
+125,2026-01-23,Naan,3,Cash,40,120
+126,2026-03-03,Veg Biryani,1,Card,180,180
+127,2026-03-29,Gulab Jamun,4,Cash,60,240
+128,2026-02-06,Dal Makhani,4,Cash,200,800
+129,2026-02-13,Cold Coffee,5,UPI,90,450
+130,2026-03-27,Paneer Tikka,1,Cash,220,220
+131,2026-02-04,Dal Makhani,3,Cash,200,600
+132,2026-03-06,Veg Biryani,4,UPI,180,720
+133,2026-02-16,Paneer Tikka,1,Card,220,220
+134,2026-03-19,Chicken Biryani,4,Card,250,1000
+135,2026-01-03,Dal Makhani,4,UPI,200,800
+136,2026-01-01,Masala Dosa,3,UPI,120,360
+137,2026-01-05,Paneer Tikka,2,UPI,220,440
+138,2026-03-31,Veg Biryani,5,UPI,180,900
+139,2026-01-14,Butter Chicken,5,UPI,320,1600
+140,2026-01-27,Gulab Jamun,3,Card,60,180
+141,2026-01-09,Naan,4,Card,40,160
+142,2026-03-20,Veg Biryani,1,UPI,180,180
+143,2026-01-15,Cold Coffee,4,Cash,90,360
+144,2026-03-31,Cold Coffee,3,UPI,90,270
+145,2026-02-11,Butter Chicken,5,Cash,320,1600
+146,2026-03-18,Naan,4,UPI,40,160
+147,2026-02-20,Masala Dosa,5,UPI,120,600
+148,2026-03-04,Butter Chicken,1,Card,320,320
+149,2026-02-21,Butter Chicken,5,Cash,320,1600
+150,2026-01-04,Paneer Tikka,5,Cash,220,1100
+151,2026-01-23,Cold Coffee,2,Card,90,180
+152,2026-01-15,Paneer Tikka,2,Card,220,440
+153,2026-02-12,Gulab Jamun,2,Card,60,120
+154,2026-01-29,Naan,5,Card,40,200
+155,2026-02-05,Masala Dosa,3,Cash,120,360
+156,2026-01-13,Masala Dosa,5,Cash,120,600
+157,2026-02-01,Veg Biryani,3,UPI,180,540
+158,2026-03-12,Butter Chicken,3,UPI,320,960
+159,2026-02-28,Gulab Jamun,2,Card,60,120
+160,2026-03-27,Cold Coffee,4,Card,90,360
+161,2026-01-28,Masala Dosa,1,Card,120,120
+162,2026-03-07,Gulab Jamun,2,UPI,60,120
+163,2026-02-11,Chicken Biryani,2,UPI,250,500
+164,2026-02-14,Chicken Biryani,4,UPI,250,1000
+165,2026-03-03,Paneer Tikka,1,UPI,220,220
+166,2026-02-26,Cold Coffee,5,UPI,90,450
+167,2026-01-06,Veg Biryani,5,UPI,180,900
+168,2026-01-28,Masala Dosa,2,UPI,120,240
+169,2026-01-28,Butter Chicken,1,Card,320,320
+170,2026-02-13,Butter Chicken,2,Card,320,640
+171,2026-03-25,Masala Dosa,3,Card,120,360
+172,2026-01-30,Naan,2,Card,40,80
+173,2026-03-03,Veg Biryani,2,UPI,180,360
+174,2026-03-16,Gulab Jamun,5,Cash,60,300
+175,2026-03-30,Naan,5,UPI,40,200
+176,2026-03-03,Naan,5,Cash,40,200
+177,2026-01-01,Paneer Tikka,3,Card,220,660
+178,2026-01-27,Chicken Biryani,5,UPI,250,1250
+179,2026-03-03,Naan,1,Card,40,40
+180,2026-03-18,Naan,4,UPI,40,160
+181,2026-01-03,Dal Makhani,1,Card,200,200
+182,2026-03-11,Paneer Tikka,1,Cash,220,220
+183,2026-03-13,Cold Coffee,5,Cash,90,450
+184,2026-01-27,Dal Makhani,4,Cash,200,800
+185,2026-01-09,Dal Makhani,4,UPI,200,800
+186,2026-03-03,Masala Dosa,4,Cash,120,480
+187,2026-02-06,Chicken Biryani,3,UPI,250,750
+188,2026-02-20,Naan,5,Cash,40,200
+189,2026-02-13,Chicken Biryani,4,Cash,250,1000
+190,2026-01-24,Veg Biryani,3,UPI,180,540
+191,2026-03-20,Masala Dosa,2,UPI,120,240
+192,2026-02-28,Cold Coffee,2,Cash,90,180
+193,2026-02-01,Chicken Biryani,3,UPI,250,750
+194,2026-03-29,Butter Chicken,3,Cash,320,960
+195,2026-02-21,Veg Biryani,5,UPI,180,900
+196,2026-03-03,Paneer Tikka,5,Card,220,1100
+197,2026-02-27,Cold Coffee,2,Card,90,180
+198,2026-02-21,Veg Biryani,4,Card,180,720
+199,2026-01-12,Masala Dosa,2,Card,120,240
+200,2026-02-08,Dal Makhani,4,Card,200,800
